@@ -1,4 +1,5 @@
-![Animal_Chart](https://user-images.githubusercontent.com/109414918/223479265-7ca09b37-16b0-40ce-811b-64aea9421a39.gif)
+![Animal_chart](https://user-images.githubusercontent.com/109414918/223483178-e22aaa54-b9c8-440a-a5fc-6f4934241f8f.gif)
+
 
 
 Above is simple demonstraction of usage React
